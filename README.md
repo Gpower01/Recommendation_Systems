@@ -69,11 +69,11 @@ This projects created a content based recommender system for a data set of movie
 
 
 
-# References and Recommendations:
+## References and Recommendations:
 
 If yopu want to practice more on recommendation system analysis, check out these data set. Note, some of these files are quite large in most cases, not all the links may stay up to host the data, but majority of them still work or just google for your own data set.
 
-## Movie Recommendation:
+### Movie Recommendation:
 
 - [Yahoo! - Movie, Music and Images Rating Data Sets](https://webscope.sandbox.yahoo.com/catalog.php?datatype=r&guccounter=1&guce_referrer=aHR0cDovL2xvY2FsaG9zdDo4ODg4L25vdGVib29rcy9NeURhdGFfU2NpZW5jZV9Db2Rlcy9SZWZhY3RvcmVkX1B5X0RTX01MX0Jvb3RjYW1wLW1hc3Rlci8xOS1SZWNvbW1lbmRlci1TeXN0ZW1zLzAyLUFkdmFuY2VkJTIwUmVjb21tZW5kZXIlMjBTeXN0ZW1zJTIwd2l0aCUyMFB5dGhvbi5pcHluYg&guce_referrer_sig=AQAAACb_C41Y16e_4XYwnEUCt0-ToyiBXWYfPbiHPOJ7SVmX1lxDVGPwvRGeI_42INmLZgHfODbuz7taZgfyMnX8Y159S4RwQbKg6lAvpy6PjZmI_eu-afc4-vF0stdqAUje4FFq8NTRCGSfu3SI-ls6ofRrfLk2r76axGv7RmQg5jW_).
 
@@ -81,29 +81,29 @@ If yopu want to practice more on recommendation system analysis, check out these
 
 - [Cornell University - Movie-review data for use in sentiment-analysis experiment](http://www.cs.cornell.edu/people/pabo/movie-review-data/).
 
-## Music Recommendation:
+### Music Recommendation:
 
 - [Yahoo! - Movie, Music and Images Rating Data Sets](https://webscope.sandbox.yahoo.com/catalog.php?datatype=r&guccounter=1&guce_referrer=aHR0cDovL2xvY2FsaG9zdDo4ODg4L25vdGVib29rcy9NeURhdGFfU2NpZW5jZV9Db2Rlcy9SZWZhY3RvcmVkX1B5X0RTX01MX0Jvb3RjYW1wLW1hc3Rlci8xOS1SZWNvbW1lbmRlci1TeXN0ZW1zLzAyLUFkdmFuY2VkJTIwUmVjb21tZW5kZXIlMjBTeXN0ZW1zJTIwd2l0aCUyMFB5dGhvbi5pcHluYg&guce_referrer_sig=AQAAACb_C41Y16e_4XYwnEUCt0-ToyiBXWYfPbiHPOJ7SVmX1lxDVGPwvRGeI_42INmLZgHfODbuz7taZgfyMnX8Y159S4RwQbKg6lAvpy6PjZmI_eu-afc4-vF0stdqAUje4FFq8NTRCGSfu3SI-ls6ofRrfLk2r76axGv7RmQg5jW_).
 
 - [Amazon - Audio CD recommendations](http://131.193.40.52/data/).
 
-## Books Recommendation:
+### Books Recommendation:
 
 - [Institut für Informatik, Universität Freiburg - Book Ratings Data Sets](http://www2.informatik.uni-freiburg.de/~cziegler/BX/).
 
-## Food Recommendation:
+### Food Recommendation:
 
 - [Chicago Entree - Food Rating Data Sets](http://archive.ics.uci.edu/ml/datasets/Entree+Chicago+Recommendation+Data).
 
-## Healthcare Recommendation:
+### Healthcare Recommendation:
 - [Nursing Home - Provider Rating Data Set](http://data.medicare.gov/dataset/Nursing-Home-Compare-Provider-Ratings/mufm-vy8d).
 
 - [Hospital Ratings - Survey of Patients Hospital Experiences](http://data.medicare.gov/dataset/Survey-of-Patients-Hospital-Experiences-HCAHPS-/rj76-22dk).
 
-## Dating Recommendation:
+### Dating Recommendation:
 - [Dating website recommendation (collaborative filtering)](www.libimseti.cz).
 
-## Paper Recommendation:
+### Paper Recommendation:
 - [Scholarly Paper Recommendation](http://www.occamslab.com/petricek/data/).
 - [National University of Singapore - Scholarly Paper Recommendation](http://www.comp.nus.edu.sg/~sugiyama/SchPaperRecData.html).
 

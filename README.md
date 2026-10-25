@@ -48,8 +48,18 @@ This projects created a content based recommender system for a data set of movie
 
 - [See Project Notebook in Recommendation Systems for Code Documentation]
 
-## Advanced Recommendation Systems with Python:
+## Your Movie Recommender System Application 
 
+- **Run Application**
+```
+cd app
+
+python -m pip install -r requirements.txt
+python app.py
+```
+- Then open: `http://127.0.0.1:5000`
+
+This page lets you select a movie and adjust the minimum rating count and number of results. The existing terminal mode remains available with `python app.py --cli`
 
 
 

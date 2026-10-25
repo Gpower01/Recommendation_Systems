@@ -1,4 +1,4 @@
-"""Movie recommendations using the MovieLens 100K ratings dataset."""
+"""Movie recommendations system application."""
 
 from __future__ import annotations
 
